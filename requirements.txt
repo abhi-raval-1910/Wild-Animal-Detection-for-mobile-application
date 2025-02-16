@@ -1,0 +1,9 @@
+opencv-python-headless
+torch
+numpy
+tensorflow
+pygame
+PyQt5
+ultralytics
+tensorflow-keras
+pillow
