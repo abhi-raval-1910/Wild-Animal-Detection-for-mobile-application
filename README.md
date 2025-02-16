@@ -25,9 +25,8 @@ This project is a **Wild Animal Detection Dashboard** that uses **YOLOv8** for o
 ## 🔧 Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/wild-animal-detection.git
-cd wild-animal-detection
-
+git clone https://github.com/abhi-raval-1910/Wild-Animal-Detection-for-mobile-application.git
+cd Wild-Animal-Detection-for-mobile-application
 # Create a virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
@@ -93,7 +92,7 @@ pip install -r requirements.txt
 ### Step 5: Run the Code
 In VS Code, open `main.py`, then press **F5** or run:
 ```sh
-python main.py
+python animaldetectionsundayfinal.py
 ```
 
 ### Step 6: Debugging & Logs
